@@ -7,3 +7,6 @@ A beginner-friendly website that teaches the basics of HTML in a simple and inte
 
 ## Live Demo
 [Click here to view the website](https://alr11118.github.io/HTMLguide/)
+
+## Author
+Created by [Alara Engin](https://github.com/alr11118)
